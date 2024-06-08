@@ -1,0 +1,1 @@
+For personal learning, I starting reading the book Introduction to Statistical Learning by James et al. I code, test the lab examples, and try to solve the programming exercises. All are pushed here. 
